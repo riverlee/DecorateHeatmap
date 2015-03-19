@@ -48,7 +48,6 @@ heatmap(data,col=hmcols )
 heatmap(data,col=hmcols, Rowv = NA )
 ```
 
----
 
 
 

@@ -58,7 +58,6 @@ heatmap(data,col=hmcols, Rowv = NA )
 
 ![plot of chunk hm2](assets/fig/hm2-1.png) 
 
----
 
 
 
